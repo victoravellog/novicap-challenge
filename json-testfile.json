@@ -1,0 +1,21 @@
+{
+	"VOUCHER": {
+		"price": 5.0,
+		"discount": {
+			"type": "x-for-y",
+			"x": 2,
+			"y": 1
+		}
+	},
+	"TSHIRT": {
+		"price": 20.0,
+		"discount": {
+			"type": "bulk",
+			"quantity": 3,
+			"fixed_price": 19.0
+		}
+	},
+	"MUG": {
+		"price": 7.5
+	}
+}
